@@ -1,5 +1,5 @@
-# Atividade-avaliativa-em-sala-Enunciado-ficar-dispon-el-no-hor-rio-da-aula-
-atividade
+# Atividade-avaliativa-em-sala-Enunciado
+Nome: Matheus lucas de souza pereira
 
         // 6 fileiras e 8 assentos
         int[][] sala = new int[6][8];
